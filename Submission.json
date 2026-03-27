@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, emotionally powerful illustration showing industrial smokestacks emitting thick black smoke that gradually transforms into the entire sky. The lower part of the image shows factories and human activity, while the upper sky is completely formed from accumulated smoke, dark, heavy, and suffocating. The transition from light blue sky to dense polluted darkness is smooth but disturbing. Subtle timeline progression embedded in the smoke density from bottom to top. No text, no labels. Cinematic lighting, high contrast, ultra detailed, symbolic environmental storytelling, evokes anxiety and inevitability. Style of a magazine cover illustration, photorealistic with surreal elements. Negative prompt: text, labels, charts, graphs, axes, watermark, low detail, cartoonish",
+  "model": "DALL·E 3",
+  "dataset_name": "Our World in Data CO2 Emissions Dataset",
+  "dataset_url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+  "insight": "Human-generated carbon emissions have accumulated to the point where they are fundamentally transforming the atmosphere itself."
+}
